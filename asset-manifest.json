@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-ticket-booking/static/css/main.c3bbbc71.css",
+    "main.js": "/movie-ticket-booking/static/js/main.3ec3a974.js",
+    "static/js/787.dff3ed20.chunk.js": "/movie-ticket-booking/static/js/787.dff3ed20.chunk.js",
+    "index.html": "/movie-ticket-booking/index.html",
+    "main.c3bbbc71.css.map": "/movie-ticket-booking/static/css/main.c3bbbc71.css.map",
+    "main.3ec3a974.js.map": "/movie-ticket-booking/static/js/main.3ec3a974.js.map",
+    "787.dff3ed20.chunk.js.map": "/movie-ticket-booking/static/js/787.dff3ed20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3bbbc71.css",
+    "static/js/main.3ec3a974.js"
+  ]
+}
